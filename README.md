@@ -9,8 +9,8 @@ A multiplayer chess game made using react and socket. Both players have to join 
 
 ### 🔖 Preview
 
-<img width="1469" height="777" alt="image" src="https://github.com/user-attachments/assets/55d5e5de-bb11-4cb0-bb3d-7a8b8829040e" />
+<img width="1470" height="739" alt="image" src="https://github.com/user-attachments/assets/55c00616-0e65-4868-9174-e9aa9788d719" />
 
-<img width="1470" height="765" alt="image" src="https://github.com/user-attachments/assets/734ab3cc-23c8-46fa-82c7-1b62a074e7b3" />
+<img width="1470" height="743" alt="image" src="https://github.com/user-attachments/assets/4241279f-70e7-456a-b787-e31481259ceb" />
 
 (Only playing logic has been implemented, winning and losing logic yet to be implemented)
